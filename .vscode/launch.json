@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AllocateBooks",
+            "request": "launch",
+            "mainClass": "BinarySearch.AllocateBooks",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimumSwaps",
+            "request": "launch",
+            "mainClass": "Arrays.MinimumSwaps",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountSetBits",
+            "request": "launch",
+            "mainClass": "BitManipulation.CountSetBits",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimumXor",
+            "request": "launch",
+            "mainClass": "BitManipulation.MinimumXor",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleNumberII",
+            "request": "launch",
+            "mainClass": "BitManipulation.SingleNumberII",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch Design_an_ATM_Machine",
+            "request": "launch",
+            "mainClass": "DesignProblems.Design_an_ATM_Machine",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch nCr_M",
+            "request": "launch",
+            "mainClass": "Math.Combinatorics.nCr_M",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch nCr_p",
+            "request": "launch",
+            "mainClass": "Math.Combinatorics.nCr_p",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountOfDivisors",
+            "request": "launch",
+            "mainClass": "Math.PrimeNumber.CountOfDivisors",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch GeneratePrimes",
+            "request": "launch",
+            "mainClass": "Math.PrimeNumber.GeneratePrimes",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch GeneratePrimes_Sieve",
+            "request": "launch",
+            "mainClass": "Math.PrimeNumber.GeneratePrimes_Sieve",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestCoprimeDivisor",
+            "request": "launch",
+            "mainClass": "Math.PrimeNumber.LargestCoprimeDivisor",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimalityTesting",
+            "request": "launch",
+            "mainClass": "Math.PrimeNumber.PrimalityTesting",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmallestPrimeFator",
+            "request": "launch",
+            "mainClass": "Math.PrimeNumber.SmallestPrimeFator",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch bulb",
+            "request": "launch",
+            "mainClass": "MathLogic.bulb",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Recursion.Main",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch DailyTemperature",
+            "request": "launch",
+            "mainClass": "Stack.DailyTemperature",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch NextGreaterElementII",
+            "request": "launch",
+            "mainClass": "Stack.NextGreaterElementII",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestPalindromicSubstring",
+            "request": "launch",
+            "mainClass": "Strings.LongestPalindromicSubstring",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructTree",
+            "request": "launch",
+            "mainClass": "Tree.BinaryTree.ConstructTree",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch Height_of_BinaryTree",
+            "request": "launch",
+            "mainClass": "Tree.BinaryTree.Height_of_BinaryTree",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch InOrderTraversal",
+            "request": "launch",
+            "mainClass": "Tree.BinaryTree.InOrderTraversal",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch LevelOrderTraversal",
+            "request": "launch",
+            "mainClass": "Tree.BinaryTree.LevelOrderTraversal",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch PostOrderTraversal",
+            "request": "launch",
+            "mainClass": "Tree.BinaryTree.PostOrderTraversal",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch PreOrderTraversal",
+            "request": "launch",
+            "mainClass": "Tree.BinaryTree.PreOrderTraversal",
+            "projectName": "DSA_5e2f2b84"
+        },
+        {
+            "type": "java",
+            "name": "Launch first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "DSA_5e2f2b84"
+        }
+    ]
+}
